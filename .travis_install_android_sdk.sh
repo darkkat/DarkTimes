@@ -11,8 +11,6 @@ expect "Do you accept the license *:"
 send -- "y\r"
 expect "Do you accept the license *:"
 send -- "y\r"
-expect "Do you accept the license *:"
-send -- "y\r"
 
 interact
 
