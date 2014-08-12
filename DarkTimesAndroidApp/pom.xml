@@ -77,7 +77,7 @@
 				<groupId>com.jayway.maven.plugins.android.generation2</groupId>
 				<artifactId>android-maven-plugin</artifactId>
 				<configuration>
-					<sdk><platform>20</platform></sdk>
+					<sdk><platform>19</platform></sdk>
 				</configuration>
 			</plugin>
 		</plugins>
